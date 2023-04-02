@@ -1,3 +1,5 @@
+# Hi 👋 I'm Lucas !
+
 # 💫 About Me:
 Welcome to my GitHub profile! <br>📚 I am currently a third-year computer science student at Lyon.<br>💻 I am passionate about all things related to development and programming.<br>🧠 I enjoy exploring new technologies and continuously improving my skills. 
 
